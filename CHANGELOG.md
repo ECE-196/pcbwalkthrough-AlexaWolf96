@@ -14,3 +14,18 @@ Screenshot of PCB Editor
 
 ### Removed
 ...
+# 2CHANGELOG
+
+## {4/8/2024}
+### Contributors
+Alexa Nordstrom
+
+### Added
+...
+
+### Changed
+changed name of 3D to 3d
+changed name of PCB Editior to layout
+
+### Removed
+...
